@@ -1,11 +1,3 @@
-## **7️⃣ PRD Review & Critique (15 min)**
-### **Scenario:**  
-Your product team wrote a **bad PRD**. Find **3 critical issues**.
-
-### **File to Edit:**  
-`/solutions/prd-review.md`  
-
-```md
 # PRD Review
 
 ## 📝 Instructions
@@ -19,19 +11,19 @@ Review the following PRD and identify **3 critical issues**.
 
 ## ✏️ Your Review
 
-- Issue 1: No Clear Objective
+- **Issue 1: Lack of Clear Objectives & User Stories**  
 
-The document does not specify the purpose of the User Profile Management feature. A PRD should define why the feature is needed and what problems it aims to solve. Without this, teams lack direction and alignment.
+  The PRD does not define the purpose of the User Profile Management feature or include user stories outlining the **Jobs to Be Done (JTBD)**. Without this, teams may struggle to understand the problem being solved and how it impacts users. Clear user stories should provide context and direction for development.
 
-- Issue 2: Missing Technical Considerations
+- **Issue 2: No Acceptance Criteria**  
 
-There is no mention of authentication mechanisms, API dependencies, or data validation. This omission can lead to security risks (e.g., unauthorised profile updates) and unclear technical implementation.
+  The document lacks **acceptance criteria**, making it impossible to validate whether the feature works as intended. Without well-defined conditions for success, testing, validation, and stakeholder alignment become challenging. Acceptance criteria should cover expected behaviors, error scenarios, and edge cases.
 
-- Issue 3: No UX/UI Considerations
+- **Issue 3: Missing Technical & UX Considerations**  
 
-The PRD does not include wireframes, form validation rules, or user flow details. How will users experience profile updates? Will there be confirmation messages or error handling? These details are crucial for a smooth user experience.
+  There is no mention of authentication mechanisms, error handling, or UI/UX design elements such as form validation and user flows. This omission can lead to security vulnerabilities (e.g., unauthorised profile updates) and a poor user experience. The PRD should specify how users interact with the feature, including error messaging, validation rules, and success confirmations.
 
-🔍 Additional Missing Components
-Success Metrics: How will the team measure the effectiveness of the feature? (e.g., user adoption rate, error reduction)
-Timeline & Milestones: No delivery dates or development phases are outlined
-```
+🔍 **Additional Missing Components**  
+- **Success Metrics**: How will the team measure the feature’s impact? (e.g., user adoption rate, error reduction)  
+- **Timeline & Milestones**: No delivery dates or development phases are outlined  
+

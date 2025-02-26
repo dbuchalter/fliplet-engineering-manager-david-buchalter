@@ -1,9 +1,9 @@
 # AI Prompt Logging
 
 ## 📝 AI Usage Summary
-- **Did AI help you solve any problems? If so, how?** No, I was able to solve the problems myself however writing the code and doucmentation that I needed based on my instructions increased my productivity.
-- **What parts were 100% human-driven?** The problem solving
-- **Did AI generate incorrect/misleading answers? How did you correct them?** - Yes, through considered desicions as to what was pragmatic and practcal during the time frame
+- **Did AI help you solve any problems? If so, how?**  No, I solved the problems myself. However, using AI to generate code and documentation based on my instructions significantly boosted my productivity.
+- **What parts were 100% human-driven?** The problem-solving process.
+- **Did AI generate incorrect/misleading answers? How did you correct them?** - Yes, but I corrected them by making thoughtful decisions based on what was practical and feasible within the given timeframe.
 - **Which AI-powered IDE tools did you use?** ChatGPT and ChatGPT in VS Code
 
 ---
@@ -22,13 +22,16 @@ Task 2
 - Prompt 5: "I need to call this function through Postman, prepare for me the request to processUsers."
 
 Task 3
-
+- Prompt 1: "how do I properly set up a Vue.js project with Vite?"
+- Prompt 2: "how do I implement a basic drag-and-drop feature in Vue.js?"
+- Prompt 3: "how do I animate drag-and-drop actions in Vue.js?"
+- Prompt 4: "create a readme file in markdown for this frontend vue project"
 
 Task4
 - Prompt 1: "I need to deploy a nodejs server on ECS Fargate cluster with a load balancer. Give me step by step instructions."
 - Prompt 2: "Use Terraform for better automation go with that option."
 - Prompt 3: "I’m getting a 403 Unauthorized error when trying to create an ECS Fargate cluster with Terraform. How do I fix this?"
-- Prompt 4: "create a readme file for the backend development files"
+- Prompt 4: "create a readme file in markdown for the backend development files"
 
 Task 7 ## **7️⃣ PRD Review & Critique (15 min)**
 - Prompt 1: "Review the PRD and suggest 3 critical improvements"
